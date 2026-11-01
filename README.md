@@ -37,3 +37,5 @@ app/src/main/java/com/example/rickandmortyapp
 ## Cómo ejecutarla
 
 Abrir el proyecto en Android Studio y ejecutar el módulo `app` en un emulador o dispositivo con Android 9 o superior. La API es pública y no necesita llave.
+
+Autora: Mariana Ramos Quiroz
